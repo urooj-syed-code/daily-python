@@ -17,3 +17,10 @@ I want to build the habit of coding consistantly instead of waiting until i feel
 - Practice writing clean and reusable code
 - Track progress over time
 
+- ## Contact
+- Portfolio: [https://urooj-syed-code.github.io/Portfolio/](https://urooj-syed-code.github.io/Portfolio/)
+- LinkedIn: [https://www.linkedin.com/in/uroojsyeds](https://www.linkedin.com/in/uroojsyeds)
+
+- ## Author
+- **Rakshan Urooj Syed**
+- building data stories for healthcare decisions.
