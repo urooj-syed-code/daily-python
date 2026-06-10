@@ -26,9 +26,8 @@ def main():
     if player_score > computer_score:
         print("Congratulations! You win the game!")
     elif computer_score > player_score:
-        print("Computer wins the game! Better luck next time.")
+        print("Computer wins the game! Better luck next time!")
     else:
         print("The game is a tie!")
-if __name__ == "__main__":
+if __name__ == "__main__":  
     main()
-    
